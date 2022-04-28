@@ -10,7 +10,7 @@
         {
             "name": "virtio-4.4.180plus-broadwellnk.tgz",
             "url": "https://raw.githubusercontent.com/hojin-jeong/redpill-virtio/master/recipes/virtio-4.4.180plus-broadwellnk.tgz",
-            "sha256": "1D73D4579248F7111A3BC2023C9176E2FD60A8BC1E33D9B2FE11A7982C14E37B",
+            "sha256": "1d73d4579248f7111a3bc2023c9176e2fd60a8bc1e33d9b2fe11a7982c14e37b",
             "packed": true
         }
     ],
