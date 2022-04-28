@@ -24,6 +24,6 @@
         "virtio_balloon.ko": ""
     },
     "scripts": {
-        "check_kmod": "check-virtio.sh"
+        "on_boot": "check-virtio.sh"
     }
 }
